@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  ChildOfZero
+
+  Created by Engin Yazılan on 2019/09/24.
+  Copyright © 2019 New 3 Rs. All rights reserved.
+*/
+
+CFBundleDisplayName = "A Master of Go";
